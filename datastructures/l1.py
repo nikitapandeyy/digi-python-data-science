@@ -1,0 +1,11 @@
+el=["h2","he","li"]
+print(el)
+print(el[1])
+list1=["nikhilesh","aman","rahul"]
+list2=[1,2,3,4]
+list3=["ravi",1,2]
+list4=[[1,2,3],[4,5,6]]
+print(list1)
+print(list2)
+print(list3)
+print(list1,list2,list3,sep="\n")
